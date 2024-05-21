@@ -319,7 +319,6 @@ let s:delimiterMap = {
     \ 'r': { 'left': '#', 'leftAlt': '#''' },
     \ 'racket': { 'left': ';', 'nested': 1, 'leftAlt': '#|', 'rightAlt': '|#', 'nestedAlt': 1 },
     \ 'radiance': { 'left': '#' },
-    \ 'racket': { 'left': ';', 'leftAlt': '#|', 'rightAlt': '|#' },
     \ 'ratpoison': { 'left': '#' },
     \ 'rc': { 'left': '//', 'leftAlt': '/*', 'rightAlt': '*/' },
     \ 'rebol': { 'left': ';' },
